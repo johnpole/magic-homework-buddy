@@ -1,0 +1,8 @@
+{
+  "name": "Magic Homework Buddy",
+  "description": "An interactive AI tutor that helps kids with homework using video and voice conversation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
